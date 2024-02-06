@@ -379,8 +379,11 @@ img {
   }
   .home__img {
     width: 200px;
+    height:auto;
   }
-
+  #clock{
+    font-size:3px;
+  }
 }
 @media screen and (min-width: 576px) {
   .home {
@@ -487,10 +490,11 @@ img {
   }
 .home__blob-img{
     weight:50px;
-    height:auo;
+    height:auto;
 }
 
   .home__img {
     width: 450px;
+    height:auto;
   }
 }
