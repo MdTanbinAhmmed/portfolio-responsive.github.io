@@ -493,8 +493,9 @@ img {
     height:auto;
 }
 #clock{
-  top:5%;
+  top:15%;
   font-size:1px;
+  margin-top:20px;
 }
   .home__img {
     width: 450px;
