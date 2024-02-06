@@ -218,11 +218,11 @@ img {
   bottom: 0;
   width: 260px;
 }
-.home__blob {
-  fill: var(--first-color);
-}
+
 .home__blob-img {
+  position:reletive;
   width: 360px;
+  height:auto;
 }
 
 /*BUTTONS*/
@@ -380,9 +380,7 @@ img {
   .home__img {
     width: 200px;
   }
-  .clock{
-    font-size:3px;
-  }
+
 }
 @media screen and (min-width: 576px) {
   .home {
@@ -491,9 +489,7 @@ img {
     weight:50px;
     height:auo;
 }
-  .clock{
-    font-size:5px;
-  }
+
   .home__img {
     width: 450px;
   }
