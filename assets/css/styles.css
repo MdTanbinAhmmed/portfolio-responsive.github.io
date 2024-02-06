@@ -492,7 +492,10 @@ img {
     weight:50px;
     height:auto;
 }
-
+#clock{
+  top:5%;
+  font-size:1px;
+}
   .home__img {
     width: 450px;
     height:auto;
