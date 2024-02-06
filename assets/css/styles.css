@@ -484,7 +484,13 @@ img {
   .home {
     padding: 10rem 0 2rem;
   }
-
+.home__blob-img{
+    weight:50px;
+    height:auo;
+}
+  .clock{
+    font-size:5px;
+  }
   .home__img {
     width: 450px;
   }
