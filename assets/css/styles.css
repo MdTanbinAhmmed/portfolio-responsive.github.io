@@ -448,6 +448,7 @@ img {
   .nav__toggle {
     display: none;
   }
+  
   .nav__link {
     color: var(--second-color);
   }
@@ -482,6 +483,13 @@ img {
   }
   .home {
     padding: 10rem 0 2rem;
+  }
+  .clock{
+    font-size:2px;
+  }
+  .home__blob-img{
+    weight:50px;
+    height:auto;
   }
   .home__img {
     width: 450px;
