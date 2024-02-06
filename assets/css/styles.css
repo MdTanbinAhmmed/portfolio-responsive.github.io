@@ -73,6 +73,8 @@ img {
 }
 #clock{
   width: 50px;
+  top:20px;
+  margin-top:20px;
 }
 
 /*===== CLASS CSS ===== */
@@ -492,11 +494,7 @@ img {
     weight:50px;
     height:auto;
 }
-#clock{
-  top:15%;
-  font-size:1px;
-  margin-top:20px;
-}
+
   .home__img {
     width: 450px;
     height:auto;
