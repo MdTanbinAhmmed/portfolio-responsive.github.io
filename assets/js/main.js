@@ -100,3 +100,10 @@ const typed = new Typed('.typed', {
 
     console.log(fullname,email,textarea)
 })
+
+
+
+ function myFunction() {
+            let element = document.body;
+            element.classList.toggle("dark");
+        }
