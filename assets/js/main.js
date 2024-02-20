@@ -60,7 +60,7 @@ sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
 
 const typed = new Typed('.typed', {
     strings: ['Md Tanbin Ahmmed', 'a Front-End Web Developer', 'an Engineer', 'a Programmer'],
-    typeSpeed: 80,
+    typeSpeed: 100,
     backspeed: 150,
     backDelay: 1500,
     loop: true,
@@ -75,7 +75,7 @@ const typed = new Typed('.typed', {
     backDelay: 1500,
     loop: true,
     loopCount: 1100000,
-    cursorChar: '.'
+    cursorChar: '|'
   });
 
  
