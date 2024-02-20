@@ -59,7 +59,7 @@ sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
 
 
 const typed = new Typed('.typed', {
-    strings: ['Md Tanbin Ahmmed', 'Front-End Web Developer', 'Engineer', 'Programmer'],
+    strings: ['Front-End Web Developer', 'Engineer', 'Programmer'],
     typeSpeed: 80,
     backspeed: 150,
     backDelay: 1500,
